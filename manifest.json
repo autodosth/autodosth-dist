@@ -4,5 +4,11 @@
   "versionName": "1.7",
   "apkUrl": "https://github.com/autodosth/autodosth-dist/releases/download/v1.7/AutoDosth-1.7.apk",
   "mandatory": false,
-  "notes": "Coin subscription + automatic updates."
+  "notes": "Coin subscription + automatic updates.",
+  "killSwitch": {
+    "enabled": false,
+    "minVersion": 0,
+    "maxVersion": 0,
+    "message": ""
+  }
 }
