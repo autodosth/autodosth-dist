@@ -1,0 +1,8 @@
+{
+  "latestVersionCode": 8,
+  "minSupportedVersionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/autodosth/autodosth-dist/releases/download/v1.7/AutoDosth-1.7.apk",
+  "mandatory": false,
+  "notes": "Coin subscription + automatic updates."
+}
