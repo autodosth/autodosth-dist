@@ -6,6 +6,8 @@
   "mandatory": false,
   "notes": "Coin subscription + automatic updates.",
   "whatsAppNumber": "7026494338",
+  "upiVpa": "",
+  "upiPayeeName": "AutoDosth",
   "killSwitch": {
     "enabled": false,
     "minVersion": 0,
