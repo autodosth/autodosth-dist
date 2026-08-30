@@ -9,6 +9,7 @@
   "upiVpa": "",
   "upiPayeeName": "AutoDosth",
   "shareUrl": "",
+  "referralEnabled": false,
   "killSwitch": {
     "enabled": false,
     "minVersion": 0,
