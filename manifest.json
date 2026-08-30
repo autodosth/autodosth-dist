@@ -10,6 +10,8 @@
   "upiPayeeName": "AutoDosth",
   "shareUrl": "",
   "referralEnabled": true,
+  "subscribeEnabled": true,
+  "subscribeMessage": "",
   "killSwitch": {
     "enabled": false,
     "minVersion": 0,
