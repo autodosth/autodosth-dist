@@ -12,7 +12,7 @@
   "referralEnabled": true,
   "subscribeEnabled": true,
   "subscribeMessage": "",
-  "coinResetToken": "2026-09-01-devcode-leak",
+  "coinResetToken": "",
   "killSwitch": {
     "enabled": false,
     "minVersion": 0,
